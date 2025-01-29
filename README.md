@@ -2,6 +2,8 @@
 
 Smart Agro Advisor is a **Streamlit-based Crop & Fertilizer Recommendation System** that provides users with accurate crop and fertilizer suggestions based on input parameters like soil nutrients, temperature, and humidity. The system uses **machine learning models** to enhance agricultural decision-making.
 
+Click to view the website: https://agro-advisor.streamlit.app/
+
 ## 🚀 Features
 
 - **Crop Recommendation** 🌱: Predicts the best crop to grow based on soil conditions.
