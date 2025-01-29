@@ -68,7 +68,7 @@ data_chart = pd.DataFrame({
     "Nutrient": ["Nitrogen", "Phosphorus", "Potassium"],
     "Amount": [N, P, K]
 })
-fig = px.bar(data_chart, x="Nutrient", y="Amount", text_auto=True, color="Nutrient")
+fig = px.bar(data_chart, x="Nutrient", y="Amount", text_auto=True, color="Nutrient", title="Nutrient Levels")
 st.plotly_chart(fig)
 
 soil_chart = pd.DataFrame({
